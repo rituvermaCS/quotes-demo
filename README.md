@@ -1,6 +1,6 @@
 # Demo Quotes
 
-Demo website to display quotes
+[Demo website to display quotes](https://coding-connoisseurs.github.io/quotes-demo/)
 
 ## Features
 
